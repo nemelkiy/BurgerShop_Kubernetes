@@ -62,6 +62,18 @@ spec:
 
 ![2](https://user-images.githubusercontent.com/70494282/148702865-4f33b22f-5760-4c7c-a1e9-65c446d1f008.png)
 
+- Осмотр подов в Dashboard Kebernetes
+
+![3](https://user-images.githubusercontent.com/70494282/148703008-5d60a4cb-ac53-4f01-9a85-d807d97af51a.png)
+
+- Примеры запросов к приложению через Postman. Get запрос на статус и Get запрос на выборку всех записей из БД.
+
+![4](https://user-images.githubusercontent.com/70494282/148703030-efed7a94-d390-4235-b866-102984f311d4.png)
+![5](https://user-images.githubusercontent.com/70494282/148703046-2742f004-e78f-4d99-a046-1bc46c762f72.png)
+
+
+### Короткое виде с пояснением по работе приложения
 
 https://user-images.githubusercontent.com/70494282/148696185-34ff6a3c-cda4-4560-b1b0-9c67d11faf05.mp4
+
 
